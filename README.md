@@ -1,6 +1,6 @@
 # Eazy-Park
 
-Fast & Efficient parking for users using Object Detection (Masked R-CNN)
+Fast & Efficient parking for users using Object Detection (Mask R-CNN)
 
 The dataset used in this model is COCO Model (Common Objects in Context). COCO model helps in recognising 80 different types of objects.
 
@@ -10,7 +10,7 @@ The bounding box of the object in the image, given as X/Y pixel locations (Inter
 
 A bitmap “mask” that tells which pixels within the bounding box are part of the object and which aren’t. With the mask data, we can also work out the outline of the object.
 
-
+<img src="/VanditGupta/Eazy_Park/raw/master/Images/Final.png" alt="" style="max-width:100%;">
 
 
 
