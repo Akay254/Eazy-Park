@@ -6,6 +6,8 @@ The dataset used in this model is COCO Model (Common Objects in Context). COCO m
 
 A confidence score of the object detection is given. The higher the number, the more certain the model is that it correctly identifies the object.
 
+
+![alt text](https://i.ytimg.com/vi/kJ2dr9jAThY/maxresdefault.jpg)
 The bounding box of the object in the image, given as X/Y pixel locations (Intersection over union) (IoU).
 
 A bitmap “mask” that tells which pixels within the bounding box are part of the object and which aren’t. With the mask data, we can also work out the outline of the object.
