@@ -9,6 +9,11 @@ A confidence score of the object detection is given. The higher the number, the 
 The bounding box of the object in the image, given as X/Y pixel locations (Intersection over union) (IoU).
 
 A bitmap “mask” that tells which pixels within the bounding box are part of the object and which aren’t. With the mask data, we can also work out the outline of the object.
+Initial Stage:
+
+<img src="D:/download/Initial.png" alt="" style="max-width:100%;">
+
+Final Stage:
 
 <img src="/VanditGupta/Eazy_Park/raw/master/Images/Final.png" alt="" style="max-width:100%;">
 
